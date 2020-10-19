@@ -1,0 +1,20 @@
+@import '~bootstrap/scss/bootstrap';
+@import './src/assets/admin.scss';
+
+//Hero Area
+.hero-content {
+    font-size: 3em;
+    font-weight: 200px;
+    margin-left: -1.5em;
+    text-align: left;
+    
+}
+
+.para{
+    margin-left: -4.5em;
+    text-align: left;
+}
+
+ .hero-btn{
+     margin-left: -20em;
+ }
