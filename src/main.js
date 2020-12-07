@@ -19,6 +19,8 @@ Vue.component('Navbar', require('./components/Navbar.vue').default);
 Vue.component('Hero', require('./components/Hero.vue').default);
 Vue.component('card', require('./components/card.vue').default);
 Vue.component('footerarea', require('./components/footerarea.vue').default);
+Vue.component('Searchbar', require('./components/Searchbar.vue').default);
+Vue.component('me', require('../src/sections/me.vue').default);
 
 Vue.config.productionTip = false;
 
